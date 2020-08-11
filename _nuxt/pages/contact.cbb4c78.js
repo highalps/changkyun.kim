@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{195:function(t,n,e){"use strict";e.r(n);var c={name:"contact"},l=e(27),component=Object(l.a)(c,(function(){var t=this.$createElement;return(this._self._c||t)("div",{staticClass:"mx-auto container mt-16 py-4"},[this._v("\n  여기에 연락처 넣을 예정\n")])}),[],!1,null,null,null);n.default=component.exports}}]);
